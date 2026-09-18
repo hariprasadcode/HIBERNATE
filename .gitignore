@@ -1,0 +1,11 @@
+# Eclipse workspace
+.metadata/
+
+# Java compiled files
+bin/
+target/
+
+# Eclipse project files (optional)
+.settings/
+.classpath
+.project
